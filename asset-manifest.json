@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-vertical-and-horizon-slide/static/css/main.2612d9c3.chunk.css",
-    "main.js": "/react-vertical-and-horizon-slide/static/js/main.790f60a9.chunk.js",
-    "main.js.map": "/react-vertical-and-horizon-slide/static/js/main.790f60a9.chunk.js.map",
+    "main.css": "/react-vertical-and-horizon-slide/static/css/main.dcf298f2.chunk.css",
+    "main.js": "/react-vertical-and-horizon-slide/static/js/main.5e372d59.chunk.js",
+    "main.js.map": "/react-vertical-and-horizon-slide/static/js/main.5e372d59.chunk.js.map",
     "runtime-main.js": "/react-vertical-and-horizon-slide/static/js/runtime-main.b5ce88b9.js",
     "runtime-main.js.map": "/react-vertical-and-horizon-slide/static/js/runtime-main.b5ce88b9.js.map",
     "static/css/2.f19869ab.chunk.css": "/react-vertical-and-horizon-slide/static/css/2.f19869ab.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.0cce5402.chunk.js.map": "/react-vertical-and-horizon-slide/static/js/3.0cce5402.chunk.js.map",
     "index.html": "/react-vertical-and-horizon-slide/index.html",
     "static/css/2.f19869ab.chunk.css.map": "/react-vertical-and-horizon-slide/static/css/2.f19869ab.chunk.css.map",
-    "static/css/main.2612d9c3.chunk.css.map": "/react-vertical-and-horizon-slide/static/css/main.2612d9c3.chunk.css.map",
+    "static/css/main.dcf298f2.chunk.css.map": "/react-vertical-and-horizon-slide/static/css/main.dcf298f2.chunk.css.map",
     "static/js/2.4aa05e8d.chunk.js.LICENSE.txt": "/react-vertical-and-horizon-slide/static/js/2.4aa05e8d.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/react-vertical-and-horizon-slide/static/media/slick.c94f7671.ttf"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.b5ce88b9.js",
     "static/css/2.f19869ab.chunk.css",
     "static/js/2.4aa05e8d.chunk.js",
-    "static/css/main.2612d9c3.chunk.css",
-    "static/js/main.790f60a9.chunk.js"
+    "static/css/main.dcf298f2.chunk.css",
+    "static/js/main.5e372d59.chunk.js"
   ]
 }
