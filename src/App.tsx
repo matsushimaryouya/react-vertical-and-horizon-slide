@@ -99,6 +99,13 @@ function App() {
       infinite: true,
       slidesToShow: 1,
       slidesToScroll: 1,
+      arrows: true,
+      beforeChange: function(currentSlide : any, nextSlide : any) {
+        console.log("before change", currentSlide, nextSlide);
+      },
+      afterChange: function(currentSlide : any) {
+        console.log("after change", currentSlide);
+      }
     };
 
     return (
